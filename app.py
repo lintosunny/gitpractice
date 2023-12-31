@@ -7,3 +7,4 @@ def division(a, b):
 
 def substraction(a, b):
     return a-b
+    return a/b * a/b
